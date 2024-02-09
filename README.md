@@ -1,7 +1,4 @@
-# Water-Quality-Prediction
-Creating a compelling GitHub README for your water quality prediction project is crucial for engaging the community, attracting contributors, and showcasing the significance and impact of your work. Below is a template that highlights the project's essence, its technical foundation, and how it stands out in the field of environmental science and machine learning.
 
----
 
 # Water Quality Prediction with IABC-BP Neural Network
 
