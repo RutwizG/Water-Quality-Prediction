@@ -52,10 +52,6 @@ The IABC-BP neural network model is structured to process input data through its
 
 We welcome contributions from the community. Whether you're looking to fix bugs, improve the model, or suggest new features, please feel free to make a pull request or open an issue.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Our heartfelt gratitude to the researchers and developers whose work laid the groundwork for this project.
